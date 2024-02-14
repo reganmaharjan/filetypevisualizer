@@ -1,0 +1,2 @@
+# filetypevisualizer
+Visualizes Folder Content
